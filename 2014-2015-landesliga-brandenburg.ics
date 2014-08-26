@@ -1,0 +1,802 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Brandenburg Landesliga
+X-WR-CALDESC:Brandenburg Landesliga, Saison 2014/15 - Spielplan
+X-WR-TIMEZONE:Europe/Berlin
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20140907T120000
+DTEND:20140907T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n1. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140907T130000
+DTEND:20140907T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n1. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140907T130000
+DTEND:20140907T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n1. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140907T140000
+DTEND:20140907T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n1. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140907T140000
+DTEND:20140907T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n1. Spieltag
+SUMMARY:Eberswalder SC — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140907T150000
+DTEND:20140907T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n1. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T110000
+DTEND:20140914T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n2. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T130000
+DTEND:20140914T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n2. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T130000
+DTEND:20140914T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n2. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T130000
+DTEND:20140914T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n2. Spieltag
+SUMMARY:SG Sieversdorf — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T140000
+DTEND:20140914T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n2. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140914T140000
+DTEND:20140914T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n2. Spieltag
+SUMMARY:FSV Babelsberg 74 — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T120000
+DTEND:20140921T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n3. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T130000
+DTEND:20140921T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n3. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T130000
+DTEND:20140921T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n3. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T140000
+DTEND:20140921T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n3. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T140000
+DTEND:20140921T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n3. Spieltag
+SUMMARY:Eberswalder SC — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T150000
+DTEND:20140921T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n3. Spieltag
+SUMMARY:FSV Forst Borgsdorf — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140928T110000
+DTEND:20140928T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n4. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140928T130000
+DTEND:20140928T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n4. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140928T130000
+DTEND:20140928T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n4. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140928T130000
+DTEND:20140928T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n4. Spieltag
+SUMMARY:SG Sieversdorf — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140928T140000
+DTEND:20140928T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n4. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140928T140000
+DTEND:20140928T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n4. Spieltag
+SUMMARY:FSV Babelsberg 74 — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141012T110000
+DTEND:20141012T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n5. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141012T120000
+DTEND:20141012T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n5. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141012T130000
+DTEND:20141012T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n5. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141012T140000
+DTEND:20141012T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n5. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141012T140000
+DTEND:20141012T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n5. Spieltag
+SUMMARY:Eberswalder SC — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141012T150000
+DTEND:20141012T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n5. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141019T100000
+DTEND:20141019T114500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n6. Spieltag
+SUMMARY:SG Sieversdorf — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141019T130000
+DTEND:20141019T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n6. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141019T130000
+DTEND:20141019T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n6. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141019T130000
+DTEND:20141019T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n6. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141019T140000
+DTEND:20141019T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n6. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141019T140000
+DTEND:20141019T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n6. Spieltag
+SUMMARY:FSV Babelsberg 74 — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T110000
+DTEND:20141026T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n7. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T120000
+DTEND:20141026T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n7. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T130000
+DTEND:20141026T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n7. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T130000
+DTEND:20141026T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n7. Spieltag
+SUMMARY:SG Sieversdorf — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T140000
+DTEND:20141026T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n7. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141026T140000
+DTEND:20141026T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n7. Spieltag
+SUMMARY:Eberswalder SC — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141102T130000
+DTEND:20141102T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n8. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141102T130000
+DTEND:20141102T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n8. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141102T130000
+DTEND:20141102T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n8. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141102T140000
+DTEND:20141102T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n8. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141102T140000
+DTEND:20141102T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n8. Spieltag
+SUMMARY:FSV Babelsberg 74 — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141102T150000
+DTEND:20141102T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n8. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141109T110000
+DTEND:20141109T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n9. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141109T120000
+DTEND:20141109T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n9. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141109T130000
+DTEND:20141109T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n9. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141109T130000
+DTEND:20141109T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n9. Spieltag
+SUMMARY:SG Sieversdorf — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141109T140000
+DTEND:20141109T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n9. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141109T140000
+DTEND:20141109T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n9. Spieltag
+SUMMARY:Eberswalder SC — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141116T120000
+DTEND:20141116T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n10. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141116T130000
+DTEND:20141116T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n10. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141116T130000
+DTEND:20141116T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n10. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141116T140000
+DTEND:20141116T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n10. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141116T140000
+DTEND:20141116T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n10. Spieltag
+SUMMARY:FSV Babelsberg 74 — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141116T150000
+DTEND:20141116T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n10. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141123T110000
+DTEND:20141123T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n11. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141123T130000
+DTEND:20141123T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n11. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141123T130000
+DTEND:20141123T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n11. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141123T130000
+DTEND:20141123T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n11. Spieltag
+SUMMARY:SG Sieversdorf — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141123T140000
+DTEND:20141123T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n11. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141123T140000
+DTEND:20141123T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n11. Spieltag
+SUMMARY:Eberswalder SC — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141130T110000
+DTEND:20141130T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n12. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141130T130000
+DTEND:20141130T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n12. Spieltag
+SUMMARY:SG Sieversdorf — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141130T130000
+DTEND:20141130T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n12. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141130T130000
+DTEND:20141130T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n12. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141130T140000
+DTEND:20141130T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n12. Spieltag
+SUMMARY:FSV Babelsberg 74 — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141130T140000
+DTEND:20141130T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n12. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141207T120000
+DTEND:20141207T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n13. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141207T130000
+DTEND:20141207T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n13. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141207T130000
+DTEND:20141207T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n13. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141207T140000
+DTEND:20141207T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n13. Spieltag
+SUMMARY:Eberswalder SC — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141207T140000
+DTEND:20141207T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n13. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141207T150000
+DTEND:20141207T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n13. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T100000
+DTEND:20150308T114500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n14. Spieltag
+SUMMARY:SG Sieversdorf — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T110000
+DTEND:20150308T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n14. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T130000
+DTEND:20150308T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n14. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T130000
+DTEND:20150308T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n14. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T140000
+DTEND:20150308T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n14. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T140000
+DTEND:20150308T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n14. Spieltag
+SUMMARY:FSV Babelsberg 74 — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150315T120000
+DTEND:20150315T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n15. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150315T130000
+DTEND:20150315T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n15. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150315T130000
+DTEND:20150315T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n15. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150315T140000
+DTEND:20150315T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n15. Spieltag
+SUMMARY:Eberswalder SC — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150315T140000
+DTEND:20150315T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n15. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150315T150000
+DTEND:20150315T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n15. Spieltag
+SUMMARY:FSV Forst Borgsdorf — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T130000
+DTEND:20150322T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n16. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T130000
+DTEND:20150322T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n16. Spieltag
+SUMMARY:SG Sieversdorf — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T130000
+DTEND:20150322T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n16. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T130000
+DTEND:20150322T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n16. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T140000
+DTEND:20150322T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n16. Spieltag
+SUMMARY:FSV Babelsberg 74 — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T140000
+DTEND:20150322T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n16. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150412T110000
+DTEND:20150412T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n17. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150412T120000
+DTEND:20150412T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n17. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150412T130000
+DTEND:20150412T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n17. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150412T140000
+DTEND:20150412T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n17. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150412T140000
+DTEND:20150412T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n17. Spieltag
+SUMMARY:Eberswalder SC — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150412T150000
+DTEND:20150412T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n17. Spieltag
+SUMMARY:FSV Forst Borgsdorf — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T130000
+DTEND:20150419T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n18. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T130000
+DTEND:20150419T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n18. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T130000
+DTEND:20150419T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n18. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T140000
+DTEND:20150419T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n18. Spieltag
+SUMMARY:FSV Babelsberg 74 — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T140000
+DTEND:20150419T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n18. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T150000
+DTEND:20150419T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n18. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T110000
+DTEND:20150426T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n19. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T120000
+DTEND:20150426T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n19. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T130000
+DTEND:20150426T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n19. Spieltag
+SUMMARY:SG Sieversdorf — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T130000
+DTEND:20150426T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n19. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T140000
+DTEND:20150426T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n19. Spieltag
+SUMMARY:Eberswalder SC — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T140000
+DTEND:20150426T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n19. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150503T130000
+DTEND:20150503T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n20. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150503T130000
+DTEND:20150503T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n20. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150503T130000
+DTEND:20150503T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n20. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150503T140000
+DTEND:20150503T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n20. Spieltag
+SUMMARY:FSV Babelsberg 74 — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150503T140000
+DTEND:20150503T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n20. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — SG Gießmannsdorf/Lübben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150503T150000
+DTEND:20150503T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n20. Spieltag
+SUMMARY:FSV Forst Borgsdorf — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150510T110000
+DTEND:20150510T124500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n21. Spieltag
+SUMMARY:SG Gießmannsdorf/Lübben — HSV Fortuna Friedersdorf/Gussow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150510T130000
+DTEND:20150510T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n21. Spieltag
+SUMMARY:1. FFC Turbine Potsdam III — SG Basdorf/Wandlitz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150510T130000
+DTEND:20150510T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n21. Spieltag
+SUMMARY:SG Sieversdorf — SV Blau Weiß Ladeburg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150510T130000
+DTEND:20150510T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n21. Spieltag
+SUMMARY:SC Eintracht Miersdorf/Zeuthen — FSV Babelsberg 74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150510T140000
+DTEND:20150510T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n21. Spieltag
+SUMMARY:Eberswalder SC — SpG Stahl Brandenburg/Borussia Belzig
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150510T140000
+DTEND:20150510T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n21. Spieltag
+SUMMARY:SV Rot-Weiß Flatow — FSV Forst Borgsdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150517T120000
+DTEND:20150517T134500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n22. Spieltag
+SUMMARY:SG Basdorf/Wandlitz — Eberswalder SC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150517T130000
+DTEND:20150517T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n22. Spieltag
+SUMMARY:HSV Fortuna Friedersdorf/Gussow — SG Sieversdorf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150517T130000
+DTEND:20150517T144500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n22. Spieltag
+SUMMARY:SpG Stahl Brandenburg/Borussia Belzig — SV Rot-Weiß Flatow
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150517T140000
+DTEND:20150517T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n22. Spieltag
+SUMMARY:FSV Babelsberg 74 — 1. FFC Turbine Potsdam III
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150517T140000
+DTEND:20150517T154500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n22. Spieltag
+SUMMARY:SV Blau Weiß Ladeburg — SC Eintracht Miersdorf/Zeuthen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150517T150000
+DTEND:20150517T164500
+DESCRIPTION:Brandenburg Landesliga, Saison 2014/15 - Spielplan\n22. Spieltag
+SUMMARY:FSV Forst Borgsdorf — SG Gießmannsdorf/Lübben
+END:VEVENT
+
+END:VCALENDAR
+
