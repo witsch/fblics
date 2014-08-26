@@ -32,6 +32,8 @@ def parse_arguments():
     parser.add_argument('-u', '--url',
         default='http://www.ffc-turbine.de/ms01_buli1415.php',
         help='URL to fetch game schedules from')
+    parser.add_argument('-f', '--filter',
+        help='filter calendar entries using the given pattern')
     return parser.parse_args()
 
 
@@ -49,6 +51,8 @@ def main():
             info = tr.text
         else:
             date, time, match, score = columns
+            if args.filter is not None and args.filter not in match.text:
+                continue
             start = datetime.strptime(date.text + time.text, '%d.%m.%Y%H:%M Uhr')
             end = start + timedelta(hours=1, minutes=45)
             events += event % dict(
