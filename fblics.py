@@ -27,7 +27,7 @@ date_fmt = '%Y%m%dT%H%M%S'
 
 
 def parse_arguments():
-    parser = ArgumentParser(description='convert Frauenbundesliga '
+    parser = ArgumentParser(description='convert Frauen-Bundesliga '
         'schedule to iCalendar data exchange format')
     parser.add_argument('-u', '--url',
         default='http://www.ffc-turbine.de/ms01_buli1415.php',

@@ -5,7 +5,7 @@ version = 'v1-dev'
 
 setup(name=name,
     version=version,
-    description='convert Frauenbundesliga schedule to iCalendar data exchange format',
+    description='convert Frauen-Bundesliga schedule to iCalendar data exchange format',
     url='https://github.com/witsch/fblics',
     author='Andreas Zeidler',
     author_email='az at zitc.de',
