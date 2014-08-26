@@ -1,7 +1,7 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 name = 'fblics'
-version = 'v1-dev'
+version = 'v1'
 
 setup(name=name,
     version=version,
@@ -12,7 +12,7 @@ setup(name=name,
     classifiers=[
         "Programming Language :: Python",
     ],
-    packages=find_packages(),
+    py_modules=['fblics'],
     include_package_data=True,
     zip_safe=False,
     install_requires=[

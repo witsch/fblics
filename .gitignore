@@ -2,6 +2,7 @@
 /*.egg-info
 /.gitignore
 /bin/
+/dist/
 /include/
 /lib/
 /pyvenv.cfg
