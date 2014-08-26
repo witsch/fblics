@@ -34,6 +34,9 @@ def parse_arguments():
         help='URL to fetch game schedules from')
     parser.add_argument('-f', '--filter',
         help='filter calendar entries using the given pattern')
+    parser.add_argument('-t', '--turbine',
+        dest='filter', action='store_const', const='Turbine Potsdam',
+        help='filter calendar entries for Turbine Potsdam')
     return parser.parse_args()
 
 
