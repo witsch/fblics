@@ -1,7 +1,7 @@
 from setuptools import setup
 
 name = 'fblics'
-version = 'v1'
+version = 'v2-dev'
 
 setup(name=name,
     version=version,
