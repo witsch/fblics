@@ -7,7 +7,7 @@ from requests import get
 event = """BEGIN:VEVENT
 DTSTART:%(start)s
 DTEND:%(end)s
-DESCRIPTION:1. Frauen-Fußball-Bundesliga\\n%(description)s
+DESCRIPTION:%(description)s
 SUMMARY:%(summary)s
 END:VEVENT
 """
@@ -15,11 +15,11 @@ END:VEVENT
 ics = """BEGIN:VCALENDAR
 METHOD:PUBLISH
 VERSION:2.0
-X-WR-CALNAME:Frauen-Bundesliga
-X-WR-CALDESC:1. Frauen-Fußball-Bundesliga
+X-WR-CALNAME:%(title)s
+X-WR-CALDESC:%(description)s
 X-WR-TIMEZONE:Europe/Berlin
 CALSCALE:GREGORIAN
-%s
+%(events)s
 END:VCALENDAR
 """
 
@@ -40,11 +40,13 @@ def main():
     resp = get(args.url)
     soup = BeautifulSoup(resp.text)
     container = soup.find(id='countrydivcontainer')
-    events, description = '', None
+    description = container.text.strip().splitlines()[0]
+    title = description.split(',')[0]
+    events, info = '', None
     for tr in container.find_all('tr'):
         columns = tr.find_all('td')
         if len(columns) == 1:
-            description = tr.text
+            info = tr.text
         else:
             date, time, match, score = columns
             start = datetime.strptime(date.text + time.text, '%d.%m.%Y%H:%M Uhr')
@@ -53,6 +55,6 @@ def main():
                 start=start.strftime(date_fmt),
                 end=end.strftime(date_fmt),
                 summary=match.text.replace(' - ', ' — '),
-                description=description,
+                description=description + r'\n' + info,
             )
-    print(ics % events)
+    print(ics % dict(title=title, description=description, events=events))
