@@ -1,0 +1,7 @@
+*.pyc
+/*.egg-info
+/.gitignore
+/bin/
+/include/
+/lib/
+/pyvenv.cfg
