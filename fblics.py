@@ -1,3 +1,4 @@
+from argparse import ArgumentParser
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from requests import get
@@ -25,8 +26,18 @@ END:VCALENDAR
 date_fmt = '%Y%m%dT%H%M%S'
 
 
+def parse_arguments():
+    parser = ArgumentParser(description='convert Frauenbundesliga '
+        'schedule to iCalendar data exchange format')
+    parser.add_argument('-u', '--url',
+        default='http://www.ffc-turbine.de/ms01_buli1415.php',
+        help='URL to fetch game schedules from')
+    return parser.parse_args()
+
+
 def main():
-    resp = get('http://www.ffc-turbine.de/ms01_buli1415.php')
+    args = parse_arguments()
+    resp = get(args.url)
     soup = BeautifulSoup(resp.text)
     container = soup.find(id='countrydivcontainer')
     events, description = '', None
