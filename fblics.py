@@ -43,7 +43,7 @@ def parse_arguments():
 def main():
     args = parse_arguments()
     resp = get(args.url)
-    soup = BeautifulSoup(resp.text)
+    soup = BeautifulSoup(resp.text, 'html.parser')
     container = soup.find(id='countrydivcontainer')
     description = container.text.strip().splitlines()[0]
     title = description.split(',')[0]
