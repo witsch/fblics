@@ -1,0 +1,27 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.6.0
+  hooks:
+  - id: check-ast
+  - id: check-merge-conflict
+  - id: debug-statements
+  - id: trailing-whitespace
+- repo: https://github.com/pycqa/flake8
+  rev: '7.1.1'
+  hooks:
+  - id: flake8
+    additional_dependencies:
+    - flake8-awesome
+    - flake8-bugbear
+    - flake8-comprehensions
+    - flake8-debugger
+    - flake8-deprecated
+    - flake8-fixme
+    - flake8-pep3101
+    - flake8-polyfill
+    - flake8-print
+    args:
+    - "--ignore=I001,I003,I005,T201,C408"
+    - "--max-line-length=92"

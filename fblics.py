@@ -16,7 +16,7 @@ def parse_arguments():
 def main():
     cal = Calendar()
     args = parse_arguments()
-    resp = get(args.url)
+    resp = get(args.url, timeout=10)
     soup = BeautifulSoup(resp.text, 'html.parser')
     for match in soup.find_all('script', type='application/ld+json'):
         data = loads(unescape(match.string))
