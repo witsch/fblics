@@ -17,6 +17,7 @@ setup(name=name,
     zip_safe=False,
     install_requires=[
         'beautifulsoup4',
+        'ics',
         'setuptools',
         'requests',
     ],
