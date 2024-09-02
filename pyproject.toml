@@ -1,0 +1,12 @@
+[project]
+name = "fblics"
+version = "2.0"
+description = "convert kicker.de schedule to ICS"
+dependencies = ["beautifulsoup4", "ics", "requests"]
+
+[project.entry-points.console_scripts]
+fblics = "fblics:main"
+
+[tool.setuptools]
+py-modules = ["fblics"]
+packages = []
