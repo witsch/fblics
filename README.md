@@ -1,25 +1,17 @@
-fblics
-======
+# fblics
 
-Script to convert the [Frauen-Bundesliga schedule](http://www.ffc-turbine.de/ms01_buli1415.php)
-as provided by [Turbine Potsdam](http://www.ffc-turbine.de/) to the iCalendar data exchange format.
+Script to convert [kicker.de](https://kicker.de/) team schedules
+to the [iCalendar data exchange format](https://en.wikipedia.org/wiki/ICalendar).
 
-
-Installation
-------------
+## Installation
 
 ```shell
-  $ pip install fblics
+$ pipenv sync
 ```
 
-
-Usage examples
---------------
+## Usage examples
 
 ```shell
-  $ fblics --help
-  $ fblics > bundesliga.ics
-  $ fblics -u http://www.ffc-turbine.de/ms02_saison1415.php > 2.bundesliga.ics
-  $ fblics -f Frankfurt > frankfurt.ics
-  $ fblics --turbine > turbine.ics
+$ pipenv run fblics --help
+$ pipenv run fblics https://www.kicker.de/1-fc-union-berlin-frauen/spielplan
 ```
